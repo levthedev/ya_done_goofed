@@ -7,3 +7,4 @@ end
 a = [1,2,3]
 a.find
 a.select
+#more bad comments
